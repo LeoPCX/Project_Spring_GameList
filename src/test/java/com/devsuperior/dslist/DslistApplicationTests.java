@@ -1,10 +1,10 @@
-package com.web;
+package com.devsuperior.dslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectSpring01ApplicationTests {
+class DslistApplicationTests {
 
 	@Test
 	void contextLoads() {
